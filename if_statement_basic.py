@@ -1,6 +1,6 @@
 
-temperature = 35  # Or any other number
+temperature = 40   # Or any other number
 
-if temperature > 30:
+if temperature <= 30:
 
-print("It's a hot day!")  # Indented 4 spaces
+print("It's a hot day!")  # Indented 4 spacesgit commit -m "Submitting Python Week 04 - Laboratory # 10"
